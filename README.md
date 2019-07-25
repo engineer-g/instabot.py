@@ -58,7 +58,6 @@ The `%username%.session` file stores your session with Instagram to avoid re-log
 **Recommended: From PyPi:** (Stable)
 
 - `python3 -m pip install instabot-py`
-
 **From sources:**  (Bleeding edge)
 
 - `python3 -m pip install git+https://github.com/instabot-py/instabot.py`
@@ -116,7 +115,7 @@ The following video tutorials demo setting up and running the bot:
 
 ## Instabot with yaml config
 By default, instabot looks for configuration file (instabot.config.yml)
-it could be changed by exporting environment varibale with the full path
+it could be changed by exporting environment variable with the full path
 ````bash
 export INSTABOT_CONFIG_FILE=instabot2.config.yml
 ````
